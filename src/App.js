@@ -22,7 +22,7 @@ function App() {
         <ItemList items={items} onItemClick={handleItemClick} />
       </div>
     </div>
-  );DOMException
+  );
 }
 
 export default App;
